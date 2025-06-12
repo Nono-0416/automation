@@ -2,17 +2,29 @@
 
 📂專案結構
 automation/
+
 ├── conftest.py                           # 共用設定
+
 ├── requirements.txt                      # 套件需求
+
 ├── run_all.py                            # 手動本地跑 Chrome/Firefox 測試
+
 ├── utils.py                              # 截圖工具
+
 ├── pages/
+
 │   ├── login_page.py                     # Page Object：登入頁
+
 │   └── secure_area_page.py               # Page Object：登入成功後頁面
+
 ├── tests/
+
 │   ├── test_login_success.py             # 成功登入測試
+
 │   ├── test_login_failure.py             # 帳密錯誤測試
+
 │   └── test_logout.py                    # 登出測試
+
 └── screenshots/                          # 截圖儲存位置
 
 
