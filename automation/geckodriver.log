@@ -1,0 +1,406 @@
+1748246549191	geckodriver	INFO	Listening on 127.0.0.1:56613
+1748246552297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilepW6TIo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748246553502	Marionette	INFO	Marionette enabled
+1748246553685	Marionette	INFO	Listening on port 56622
+Read port: 56622
+WebDriver BiDi listening on ws://127.0.0.1:56614
+1748246553781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748246560453	Marionette	INFO	Stopped listening on port 56622
+Dynamically enable window occlusion 1
+1748246577261	geckodriver	INFO	Listening on 127.0.0.1:56697
+1748246580338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofile9Uhxs5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748246581532	Marionette	INFO	Marionette enabled
+1748246581743	Marionette	INFO	Listening on port 56705
+Read port: 56705
+WebDriver BiDi listening on ws://127.0.0.1:56698
+1748246581849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748246588288	Marionette	INFO	Stopped listening on port 56705
+Dynamically enable window occlusion 1
+1748246589140	geckodriver	INFO	Listening on 127.0.0.1:56727
+1748246592216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileL4HTPS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748246593419	Marionette	INFO	Marionette enabled
+1748246593602	Marionette	INFO	Listening on port 56735
+WebDriver BiDi listening on ws://127.0.0.1:56728
+Read port: 56735
+1748246593736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748246599993	Marionette	INFO	Stopped listening on port 56735
+Dynamically enable window occlusion 1
+1748246608507	geckodriver	INFO	Listening on 127.0.0.1:56781
+1748246611551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofiletGrhKH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748246612744	Marionette	INFO	Marionette enabled
+1748246612931	Marionette	INFO	Listening on port 56789
+WebDriver BiDi listening on ws://127.0.0.1:56782
+Read port: 56789
+1748246613050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748246619664	Marionette	INFO	Stopped listening on port 56789
+Dynamically enable window occlusion 1
+1748247215174	geckodriver	INFO	Listening on 127.0.0.1:56921
+1748247218267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilepoaJDM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247219456	Marionette	INFO	Marionette enabled
+1748247219644	Marionette	INFO	Listening on port 56929
+WebDriver BiDi listening on ws://127.0.0.1:56922
+Read port: 56929
+1748247219771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748247224989	Marionette	INFO	Stopped listening on port 56929
+Dynamically enable window occlusion 1
+1748247226030	geckodriver	INFO	Listening on 127.0.0.1:56953
+1748247229059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileWE3cBl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247230268	Marionette	INFO	Marionette enabled
+1748247230450	Marionette	INFO	Listening on port 56968
+Read port: 56968
+WebDriver BiDi listening on ws://127.0.0.1:56954
+1748247230534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748247236189	Marionette	INFO	Stopped listening on port 56968
+Dynamically enable window occlusion 1
+1748247237158	geckodriver	INFO	Listening on 127.0.0.1:56992
+1748247240221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilewCXX4y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247241421	Marionette	INFO	Marionette enabled
+1748247241607	Marionette	INFO	Listening on port 57000
+Read port: 57000
+WebDriver BiDi listening on ws://127.0.0.1:56993
+1748247241715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748247246918	Marionette	INFO	Stopped listening on port 57000
+Dynamically enable window occlusion 1
+1748247247878	geckodriver	INFO	Listening on 127.0.0.1:57023
+1748247250912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilezZXfJT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247252105	Marionette	INFO	Marionette enabled
+1748247252294	Marionette	INFO	Listening on port 57032
+WebDriver BiDi listening on ws://127.0.0.1:57024
+Read port: 57032
+1748247252419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748247257043	Marionette	INFO	Stopped listening on port 57032
+Dynamically enable window occlusion 1
+1748247838745	geckodriver	INFO	Listening on 127.0.0.1:57174
+1748247841814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofile576afb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247843017	Marionette	INFO	Marionette enabled
+1748247843200	Marionette	INFO	Listening on port 57186
+WebDriver BiDi listening on ws://127.0.0.1:57175
+Read port: 57186
+1748247843292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748247848639	Marionette	INFO	Stopped listening on port 57186
+Dynamically enable window occlusion 1
+1748247849550	geckodriver	INFO	Listening on 127.0.0.1:57210
+1748247852626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileujNaO4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247853938	Marionette	INFO	Marionette enabled
+1748247854144	Marionette	INFO	Listening on port 57219
+WebDriver BiDi listening on ws://127.0.0.1:57211
+Read port: 57219
+1748247854341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748247859926	Marionette	INFO	Stopped listening on port 57219
+Dynamically enable window occlusion 1
+1748247860920	geckodriver	INFO	Listening on 127.0.0.1:57250
+1748247863985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofile3LCB2Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247865168	Marionette	INFO	Marionette enabled
+1748247865356	Marionette	INFO	Listening on port 57258
+WebDriver BiDi listening on ws://127.0.0.1:57251
+Read port: 57258
+1748247865491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748247871097	Marionette	INFO	Stopped listening on port 57258
+Dynamically enable window occlusion 1
+1748247872064	geckodriver	INFO	Listening on 127.0.0.1:57282
+1748247875121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileLeIDJL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748247876308	Marionette	INFO	Marionette enabled
+1748247876500	Marionette	INFO	Listening on port 57291
+WebDriver BiDi listening on ws://127.0.0.1:57283
+Read port: 57291
+1748247876617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748247881860	Marionette	INFO	Stopped listening on port 57291
+Dynamically enable window occlusion 1
+1748248012656	geckodriver	INFO	Listening on 127.0.0.1:57334
+1748248015723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileARj0x5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748248016964	Marionette	INFO	Marionette enabled
+1748248017200	Marionette	INFO	Listening on port 57342
+WebDriver BiDi listening on ws://127.0.0.1:57335
+Read port: 57342
+1748248017350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748248023031	Marionette	INFO	Stopped listening on port 57342
+Dynamically enable window occlusion 1
+1748248024184	geckodriver	INFO	Listening on 127.0.0.1:57368
+1748248027251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileT5IHBN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748248028479	Marionette	INFO	Marionette enabled
+1748248028694	Marionette	INFO	Listening on port 57378
+WebDriver BiDi listening on ws://127.0.0.1:57369
+Read port: 57378
+1748248028876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748249541033	geckodriver	INFO	Listening on 127.0.0.1:58088
+1748249544126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofile9PccpD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748249545329	Marionette	INFO	Marionette enabled
+1748249545521	Marionette	INFO	Listening on port 58096
+Read port: 58096
+WebDriver BiDi listening on ws://127.0.0.1:58089
+1748249545623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748249550573	Marionette	INFO	Stopped listening on port 58096
+Dynamically enable window occlusion 1
+1748249551956	geckodriver	INFO	Listening on 127.0.0.1:58122
+1748249555004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilefGToP7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748249556227	Marionette	INFO	Marionette enabled
+1748249556419	Marionette	INFO	Listening on port 58131
+WebDriver BiDi listening on ws://127.0.0.1:58123
+Read port: 58131
+1748249556596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748249562067	Marionette	INFO	Stopped listening on port 58131
+Dynamically enable window occlusion 1
+1748249562971	geckodriver	INFO	Listening on 127.0.0.1:58155
+1748249566032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilevfFD1b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748249567237	Marionette	INFO	Marionette enabled
+1748249567450	Marionette	INFO	Listening on port 58164
+WebDriver BiDi listening on ws://127.0.0.1:58156
+Read port: 58164
+1748249567624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1748249573050	Marionette	INFO	Stopped listening on port 58164
+Dynamically enable window occlusion 1
+1748249574031	geckodriver	INFO	Listening on 127.0.0.1:58188
+1748249577117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofilem3or20"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748249578383	Marionette	INFO	Marionette enabled
+1748249578571	Marionette	INFO	Listening on port 58196
+WebDriver BiDi listening on ws://127.0.0.1:58189
+Read port: 58196
+1748249578776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748249584635	Marionette	INFO	Stopped listening on port 58196
+Dynamically enable window occlusion 1
+1748250738691	geckodriver	INFO	Listening on 127.0.0.1:58563
+1748250741775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofiledSpWEm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748250743127	Marionette	INFO	Marionette enabled
+1748250743321	Marionette	INFO	Listening on port 58571
+WebDriver BiDi listening on ws://127.0.0.1:58564
+Read port: 58571
+1748250743523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748250748968	Marionette	INFO	Stopped listening on port 58571
+Dynamically enable window occlusion 1
+1748253475928	geckodriver	INFO	Listening on 127.0.0.1:59233
+1748253478991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "592 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileWWdwUe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748253480238	Marionette	INFO	Marionette enabled
+1748253480403	Marionette	INFO	Listening on port 59241
+Read port: 59241
+WebDriver BiDi listening on ws://127.0.0.1:59234
+1748253480470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748253484581	Marionette	INFO	Stopped listening on port 59241
+Dynamically enable window occlusion 1
+1748253486930	geckodriver	INFO	Listening on 127.0.0.1:59269
+1748253490005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "592 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileJu6XS6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748253491327	Marionette	INFO	Marionette enabled
+1748253491547	Marionette	INFO	Listening on port 59280
+WebDriver BiDi listening on ws://127.0.0.1:59270
+Read port: 59280
+1748253491713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1748253496275	Marionette	INFO	Stopped listening on port 59280
+Dynamically enable window occlusion 1
+1748253499073	geckodriver	INFO	Listening on 127.0.0.1:59305
+1748253502158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "593 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileWnUkBb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748253502964	Marionette	INFO	Marionette enabled
+1748253503143	Marionette	INFO	Listening on port 59314
+WebDriver BiDi listening on ws://127.0.0.1:59306
+Read port: 59314
+1748253503306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1748253507645	Marionette	INFO	Stopped listening on port 59314
+Dynamically enable window occlusion 1
+1748253510757	geckodriver	INFO	Listening on 127.0.0.1:59343
+1748253513815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "593 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WEIHUA~1\\AppData\\Local\\Temp\\rust_mozprofileJc0y13"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1748253514839	Marionette	INFO	Marionette enabled
+1748253515010	Marionette	INFO	Listening on port 59353
+WebDriver BiDi listening on ws://127.0.0.1:59344
+Read port: 59353
+1748253515112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1748253518963	Marionette	INFO	Stopped listening on port 59353
+Dynamically enable window occlusion 1
+1749711034857	geckodriver	INFO	Listening on 127.0.0.1:51035
+1749711037900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofilesuznpB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711038350	Marionette	INFO	Marionette enabled
+1749711038471	Marionette	INFO	Listening on port 51043
+WebDriver BiDi listening on ws://127.0.0.1:51036
+Read port: 51043
+1749711038618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1749711042445	Marionette	INFO	Stopped listening on port 51043
+Dynamically enable window occlusion 1
+1749711145427	geckodriver	INFO	Listening on 127.0.0.1:51130
+1749711148444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofilePbxTps"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711148853	Marionette	INFO	Marionette enabled
+1749711148977	Marionette	INFO	Listening on port 51138
+WebDriver BiDi listening on ws://127.0.0.1:51131
+Read port: 51138
+1749711149122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1749711152926	Marionette	INFO	Stopped listening on port 51138
+Dynamically enable window occlusion 1
+1749711156568	geckodriver	INFO	Listening on 127.0.0.1:51161
+1749711159597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofilewXA09O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711159904	Marionette	INFO	Marionette enabled
+1749711160009	Marionette	INFO	Listening on port 51169
+WebDriver BiDi listening on ws://127.0.0.1:51162
+Read port: 51169
+1749711160142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1749711164381	Marionette	INFO	Stopped listening on port 51169
+Dynamically enable window occlusion 1
+1749711308012	geckodriver	INFO	Listening on 127.0.0.1:51225
+1749711311059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofilegaFt2S"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711311476	Marionette	INFO	Marionette enabled
+1749711311592	Marionette	INFO	Listening on port 51233
+WebDriver BiDi listening on ws://127.0.0.1:51226
+Read port: 51233
+1749711311734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1749711315380	Marionette	INFO	Stopped listening on port 51233
+Dynamically enable window occlusion 1
+1749711318944	geckodriver	INFO	Listening on 127.0.0.1:51256
+1749711321990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofile2PnP7C"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711322265	Marionette	INFO	Marionette enabled
+1749711322368	Marionette	INFO	Listening on port 51266
+WebDriver BiDi listening on ws://127.0.0.1:51257
+Read port: 51266
+1749711322461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1749711326244	Marionette	INFO	Stopped listening on port 51266
+Dynamically enable window occlusion 1
+1749711329497	geckodriver	INFO	Listening on 127.0.0.1:51304
+1749711332564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofileAk0nDs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711332899	Marionette	INFO	Marionette enabled
+1749711332999	Marionette	INFO	Listening on port 51313
+WebDriver BiDi listening on ws://127.0.0.1:51305
+Read port: 51313
+1749711333129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1749711337009	Marionette	INFO	Stopped listening on port 51313
+Dynamically enable window occlusion 1
+1749711340458	geckodriver	INFO	Listening on 127.0.0.1:51340
+1749711343504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wei\\AppData\\Local\\Temp\\rust_mozprofiletr9ZWl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1749711343792	Marionette	INFO	Marionette enabled
+1749711343896	Marionette	INFO	Listening on port 51348
+WebDriver BiDi listening on ws://127.0.0.1:51341
+Read port: 51348
+1749711343987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1749711347507	Marionette	INFO	Stopped listening on port 51348
+Dynamically enable window occlusion 1
