@@ -1,5 +1,4 @@
 import subprocess
-from conftest import browser
 
 browsers = ["chrome", "firefox"]
 
