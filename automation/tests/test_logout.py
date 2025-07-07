@@ -3,7 +3,7 @@ from pages.login_page import LoginPage
 from utils import save_screenshot
 from pages.secure_area_page import SecureAreaPage
 
-@pytest.mark.order(3)
+@pytest.mark.order(2)
 def test_logout(browser):
     login_page = LoginPage(browser)
     login_page.load()
