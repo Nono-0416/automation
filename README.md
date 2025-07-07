@@ -1,4 +1,4 @@
-這是一個使用 Python + Selenium + Pytest 實作的自動化測試專案，針對 Practice Test Automation (https://practicetestautomation.com/practice-test-login/)網站 執行登入登出測試且支援 Chrome 與 Firefox。
+這是一個使用 Python + Selenium + Pytest 實作的自動化測試專案，針對 Practice Test Automation (https://practicetestautomation.com/practice-test-login/) 網站執行登入登出測試且支援 Chrome 與 Firefox。
 
 📂專案結構
 automation/
