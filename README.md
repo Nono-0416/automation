@@ -7,7 +7,7 @@ automation/
 
 ├── requirements.txt                      # 套件需求
 
-├── run_all.py                            # 手動本地跑 Chrome/Firefox 測試
+├── run_all.py                            # 跑 Chrome/Firefox 測試
 
 ├── utils.py                              # 截圖工具
 
@@ -21,9 +21,9 @@ automation/
 
 │   ├── test_login_success.py             # 成功登入測試
 
-│   ├── test_login_failure.py             # 帳密錯誤測試
+│   ├── test_login_failure.py             # 帳號/密碼錯誤測試
 
-│   └── test_logout.py                    # 登出測試
+│   └── test_logout.py                    # 登出成功測試
 
 └── screenshots/                          # 截圖儲存位置
 
